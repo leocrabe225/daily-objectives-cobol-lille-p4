@@ -35,7 +35,7 @@
      Chaque tâche sera simplement un texte que l'utilisateur pourra entrer. Le programme permettra de gérer jusqu'à 5 tâches. Le menu sera interactif et permettra de sélectionner les actions via des touches. 
 
 
-- [ ] **(Bonus)** Créer un programme qui permet à l'utilisateur de se déplacer dans un menu pour afficher la moyenne des notes, la note la plus basse et la note la plus haute parmi un ensemble de notes inscrites en dur.
+- [x] **(Bonus)** Créer un programme qui permet à l'utilisateur de se déplacer dans un menu pour afficher la moyenne des notes, la note la plus basse et la note la plus haute parmi un ensemble de notes inscrites en dur.
   - Afficher la Moyenne des Notes : Calculer et afficher la moyenne des notes.
   - Afficher la Note la Plus Basse : Afficher la note la plus basse.
   - Afficher la Note la Plus Haute : Afficher la note la plus haute.

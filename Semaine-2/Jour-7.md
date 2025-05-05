@@ -30,5 +30,5 @@
 ### Optionnel pour aller plus loin :
 
 - [x] Tester un programme avec EVALUATE dans une boucle
-- [ ] Explorer la clause NEXT SENTENCE pour modifier le flux d’une boucle
+- [x] Explorer la clause NEXT SENTENCE pour modifier le flux d’une boucle
 

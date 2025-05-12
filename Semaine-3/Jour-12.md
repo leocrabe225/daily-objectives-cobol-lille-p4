@@ -51,7 +51,7 @@ Les modules du niveau **Fundamentals** introduisent les **bases de l’environne
 #### **Exercice 1 : Saisie et affichage formaté de notes avec FILLER**
 
 
-* [ ] Demander à l’utilisateur de saisir une série de notes (de 0 à 99) et leurs dates associées (au format JJ/MM/AAAA), puis afficher les données avec une mise en forme à l’aide de FILLER.
+* [x] Demander à l’utilisateur de saisir une série de notes (de 0 à 99) et leurs dates associées (au format JJ/MM/AAAA), puis afficher les données avec une mise en forme à l’aide de FILLER.
 
 - Stocke les notes et les dates dans une table avec un OCCURS.
 - Utilise des champs FILLER pour formater l’affichage de chaque ligne.
@@ -64,7 +64,7 @@ Les modules du niveau **Fundamentals** introduisent les **bases de l’environne
 #### **(Bonus) Exercice 2 : Manipulation de données dans une table**
 
 
-- [ ] Écrire un programme pour gérer une table de données contenant des informations sur des personnes. Le programme doit :
+- [x] Écrire un programme pour gérer une table de données contenant des informations sur des personnes. Le programme doit :
 
 1. Transférer des données depuis une chaîne pré-définie.
 2. Afficher toutes les informations pour chaque personne dans la table.

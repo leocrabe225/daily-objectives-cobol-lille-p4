@@ -40,7 +40,7 @@
 ##### Github
 
 - [x] Création de compte Github
-- [ ] Pimper son profile Github (belle du village)
+- [x] Pimper son profile Github (belle du village)
 - [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
   - [x] Créer un tunnel SSH entre local et Github
 - [x] Découvrir l'interface de Github
@@ -59,11 +59,11 @@
 #### Markdown
 
 - [x] Comprendre l'intérêt du Markdown
-- [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
+- [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
 
 - [x] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
-- [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
+- [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 
 ### Optionnel pour apprendre le terminal Linux :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 
+- [x] Faire le wargame bandit jusqu'au niveau 5 

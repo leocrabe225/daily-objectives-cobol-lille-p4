@@ -24,10 +24,10 @@
 
 #### Concepts intermédiaires en COBOL
 
-- [ ] Introduction aux opérations arithmétiques avancées
+- [x] Introduction aux opérations arithmétiques avancées
   - [x] ADD, SUBTRACT, MULTIPLY, DIVIDE
   - [x] Utilisation de COMPUTE pour des calculs complexes
-  - [ ] Comprendre les formats de données numériques 
+  - [x] Comprendre les formats de données numériques 
 
 
 #### Exercices pratiques

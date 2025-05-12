@@ -3,10 +3,10 @@
 ### Mercredi 30 Avril
 
 
-- [ ] Présenter un de ses programmes aux autres apprenants
+- [x] Présenter un de ses programmes aux autres apprenants
 - [x] Faire un retour rapide sur les exercices de la veille
 - [x] Faire un retour sur les conditions et boucles avec l'ensemble des apprenants
-- [ ] Préparer une petite démonstration d’un programme combiné
+- [x] Préparer une petite démonstration d’un programme combiné
 
 #### Combinaison des conditions et boucles
 

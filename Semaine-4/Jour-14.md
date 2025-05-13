@@ -12,8 +12,8 @@
 
 - [ ] Introduction à la gestion des fichiers
   - [ ] Environment Division : CONFIGURATION SECTION et INPUT-OUTPUT SECTION
-  - [ ] Data Division : FILE SECTION et définition d’un fichier
-  - [ ] Comprendre les concepts de lecture et écriture simples (OPEN, CLOSE)
+  - [x] Data Division : FILE SECTION et définition d’un fichier
+  - [x] Comprendre les concepts de lecture et écriture simples (OPEN, CLOSE)
 
 ---
 
@@ -30,29 +30,29 @@ Chaque ligne comprend :
 
 ##### ➤ **Partie 1 – Affichage basique**
 
-* [ ] Lire le fichier ligne par ligne.
-* [ ] Afficher uniquement le **nom** et le **prénom** de chaque personne.
+* [x] Lire le fichier ligne par ligne.
+* [x] Afficher uniquement le **nom** et le **prénom** de chaque personne.
 
 ---
 
 ##### ➤ **Partie 2 – Formatage de date**
 
-* [ ] Lire et extraire la **date de naissance** de chaque personne.
-* [ ] Afficher cette date au **format DD/MM/YYYY**.
+* [x] Lire et extraire la **date de naissance** de chaque personne.
+* [x] Afficher cette date au **format DD/MM/YYYY**.
 
 ---
 
 ##### ➤ **Partie 3 – Recherche et calcul d’âge**
 
-* [ ] Demander à l’utilisateur de saisir un **nom**.
-* [ ] Rechercher la personne correspondante dans le fichier.
-* [ ] Afficher son **nom**, son **prénom** et son **âge** (à partir de l’année courante, 2025).
+* [x] Demander à l’utilisateur de saisir un **nom**.
+* [x] Rechercher la personne correspondante dans le fichier.
+* [x] Afficher son **nom**, son **prénom** et son **âge** (à partir de l’année courante, 2025).
 
 ---
 
 #### Consolidation
 
 - [ ] Ajouter une section sur la gestion des fichiers à sa cheat sheet
-- [ ] Organiser ses programmes dans son repo Git et faire un push
+- [x] Organiser ses programmes dans son repo Git et faire un push
 
 

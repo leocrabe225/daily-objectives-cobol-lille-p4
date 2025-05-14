@@ -6,20 +6,20 @@
 
 #### 📌 Introduction aux **fichiers séquentiels**
 
-* [ ] Comprendre la clause `SELECT` dans l’`ENVIRONMENT DIVISION`
-  * [ ] `ASSIGN TO` + nom du fichier réel
-  * [ ] `ORGANIZATION IS SEQUENTIAL`
-* [ ] Étudier la section `FILE-CONTROL` et la déclaration `FD` dans `DATA DIVISION`
-* [ ] Découvrir les commandes :
+* [x] Comprendre la clause `SELECT` dans l’`ENVIRONMENT DIVISION`
+  * [x] `ASSIGN TO` + nom du fichier réel
+  * [x] `ORGANIZATION IS SEQUENTIAL`
+* [x] Étudier la section `FILE-CONTROL` et la déclaration `FD` dans `DATA DIVISION`
+* [x] Découvrir les commandes :
 
-  * [ ] `OPEN INPUT/OUTPUT/EXTEND`
-  * [ ] `READ` avec clause `AT END`
-  * [ ] `WRITE`
+  * [x] `OPEN INPUT/OUTPUT/EXTEND`
+  * [x] `READ` avec clause `AT END`
+  * [x] `WRITE`
 
 #### 📌 Structure et déclaration des enregistrements
 
-* [ ] Comprendre comment déclarer un enregistrement lié au fichier
-* [ ] Relier chaque champ COBOL à une colonne du fichier texte
+* [x] Comprendre comment déclarer un enregistrement lié au fichier
+* [x] Relier chaque champ COBOL à une colonne du fichier texte
 
 ---
 
@@ -30,28 +30,28 @@
 
 ---
 
-* [ ] Présenter un des programmes utilisant les fichiers séquentiels
-* [ ] Faire un retour rapide sur les notions de `AT END` et structure d’enregistrement
+* [x] Présenter un des programmes utilisant les fichiers séquentiels
+* [x] Faire un retour rapide sur les notions de `AT END` et structure d’enregistrement
 
 #### 📌 Manipulation avancée des **fichiers séquentiels**
 
-* [ ] Lire un fichier en boucle, filtrer des données, écrire un nouveau fichier
-* [ ] Gérer les fichiers d’entrée ET de sortie dans un seul programme
-* [ ] Simuler la mise à jour d’un fichier séquentiel avec un fichier temporaire
+* [x] Lire un fichier en boucle, filtrer des données, écrire un nouveau fichier
+* [x] Gérer les fichiers d’entrée ET de sortie dans un seul programme
+* [x] Simuler la mise à jour d’un fichier séquentiel avec un fichier temporaire
 
 #### 📌 Fichiers d’entrée multiples
 
-* [ ] Étudier un programme lisant 2 fichiers (clients + commandes)
-* [ ] Importance de synchroniser les fichiers (triés par ID ? )
+* [x] Étudier un programme lisant 2 fichiers (clients + commandes)
+* [x] Importance de synchroniser les fichiers (triés par ID ? )
 
 ---
 
 ### Exercices pratiques
 
-* [ ] Lire un fichier d'élèves `eleves.txt` (`Nom`, `Note`) et créer un fichier `reussite.txt` avec uniquement les élèves ayant plus de 10
-* [ ] Lire un fichier `inventaire.txt`, extraire les articles en rupture (`STOCK = 0`) et les écrire dans `rupture.txt`
-* [ ] Lire 2 fichiers (`clients.txt`, `commandes.txt`) et afficher les commandes par client (assume ID client commun)
-* [ ] Écrire un programme qui copie un fichier `compte-rendu.txt` ligne par ligne, en ignorant les lignes vides
+* [x] Lire un fichier d'élèves `eleves.txt` (`Nom`, `Note`) et créer un fichier `reussite.txt` avec uniquement les élèves ayant plus de 10
+* [x] Lire un fichier `inventaire.txt`, extraire les articles en rupture (`STOCK = 0`) et les écrire dans `rupture.txt`
+* [x] Lire 2 fichiers (`clients.txt`, `commandes.txt`) et afficher les commandes par client (assume ID client commun)
+* [x] Écrire un programme qui copie un fichier `compte-rendu.txt` ligne par ligne, en ignorant les lignes vides
 
 ---
 
